@@ -1,9 +1,7 @@
-# leo
-meo but better:tm:
+# geo
+meo but better™ but better™
 
 ## changes
-leo has the following additions to meo so far
+geo has the following additions to leo so far
 
-- Trending (Beta) powered by AtticusAI on Start Page and the Explore tab that summarises home into a few topics and dot points. (English only)
-- Double border radius for rounder buttons and other elements
-- Easy PWA install when using Chrome for Android
+- **NOTHING!!!!!!** (so far)
