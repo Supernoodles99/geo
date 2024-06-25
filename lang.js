@@ -110,7 +110,7 @@ const en = {
     },
     "login_sub": {
         "title": "Login",
-        "desc": "meo by eri, leo by josh",
+        "desc": "meo by eri, leo by josh, geo by noodles",
         "oldpass": "Old Password",
         "newpass": "New Password",
         "agreement": "Terms of Use & Privacy Policy",
